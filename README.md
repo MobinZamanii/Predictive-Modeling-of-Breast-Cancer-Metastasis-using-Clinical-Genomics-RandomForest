@@ -45,5 +45,5 @@ The model identified the following features as the strongest biological predicto
 3. Run the notebooks in sequential order.
 
 ## 🎓 Author
-**[Your Name]**
+**[Mobin Zamani]**
 *Aspiring Data Scientist / Researcher in Bioinformatics*
